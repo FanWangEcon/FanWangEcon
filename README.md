@@ -29,4 +29,6 @@
 [![Tex4Econ](https://github-readme-stats.vercel.app/api/pin/?username=fanwangecon&repo=Tex4Econ)](https://github.com/fanwangecon/Tex4Econ) 
 
 -----
-[![fanwangecon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fanwangecon)](https://github.com/fanwangecon)
+[![FanWangEcon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FanWangEcon)](https://github.com/FanWangEcon)
+
+
